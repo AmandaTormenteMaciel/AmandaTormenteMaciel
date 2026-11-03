@@ -11,7 +11,7 @@
 
 ### 🌠 Sobre mim
 
-Me chamo **Amanda**, sou de São Paulo/SP e atualmente curso **Análise e Desenvolvimento de Sistemas na UNICID**.
+Me chamo **Amanda**, sou de São Paulo/SP e atualmente curso **ADS na UNICID**.
 
 Sou apaixonada por tecnologia e estou iniciando minha jornada no universo da programação. Gosto de aprender coisas novas, explorar ferramentas e transformar ideias em projetos.
 
