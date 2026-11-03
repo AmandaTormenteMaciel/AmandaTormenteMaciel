@@ -56,3 +56,31 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
 
 <h3 align="center">Obrigada pela visita! ✨</h3>
 
+---
+
+
+---
+
+<h3 align="center">👾 Pac-Man Contributions</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AmandaTormenteMaciel/AmandaTormenteMaciel/output/pacman-contribution-graph-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AmandaTormenteMaciel/AmandaTormenteMaciel/output/pacman-contribution-graph.svg">
+
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/AmandaTormenteMaciel/AmandaTormenteMaciel/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  💙 Keep coding, keep growing! 🚀
+</p>
+
