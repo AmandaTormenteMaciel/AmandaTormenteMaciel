@@ -45,9 +45,11 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=378FE9&text_color=C9D1D9" />
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=C9D1D9" />
+  <img height="165em"
+  src="https://github-stats-extended.vercel.app/api?username=AmandaTormenteMaciel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=378FE9&text_color=C9D1D9" />
+
+  <img height="165em"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmandaTormenteMaciel&layout=compact&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=C9D1D9" />
 </p>
 
 ---
