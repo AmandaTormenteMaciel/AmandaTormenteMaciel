@@ -21,13 +21,25 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
 
 ### 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-378FE9?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-004182?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-70B5F9?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
