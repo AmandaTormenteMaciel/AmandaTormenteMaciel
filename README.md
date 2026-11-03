@@ -37,7 +37,7 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
   <a href="https://www.atlassian.com/br/git/tutorials/what-is-git" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-  <a href="https://docs.github.com/pt/get-started/start-your-journey/about-github" target="_blank">
+  <a href="https://docs.github.com/get-started/start-your-journey/about-github" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
