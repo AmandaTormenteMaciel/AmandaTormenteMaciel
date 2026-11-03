@@ -45,8 +45,9 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=0A66C2&icon_color=378FE9&text_color=70B5F9&border_color=0A66C2" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=0A66C2&text_color=70B5F9&border_color=0A66C2" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=378FE9&text_color=C9D1D9" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=C9D1D9" />
 </p>
 
 ---
@@ -55,6 +56,5 @@ Este GitHub será meu espaço para compartilhar minha evolução, registrar meus
   <i>"A melhor maneira de aprender é colocando a mão na massa."</i> 💙
 </p>
 
-<h3 align="center">Obrigada pela visita! ✨</h3>ais e preencher meu Github com vários projetos ao longo do curso!
-
+<h3 align="center">Obrigada pela visita! ✨</h3>
 
